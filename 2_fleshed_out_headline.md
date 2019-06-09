@@ -216,3 +216,9 @@ MVCアーキテクチャを採用し、さらに
 
 Railsの概要を把握できて、本格的に学んでいくための足がかりになったと思ってくれたら幸いです。
 これからも頑張っていきましょう！
+
+## 参考
+[Ruby on Rails ガイド](https://railsguides.jp/)
+
+[Ruby on Railsドキュメント (v4.2.1)
+](http://railsdoc.com/)
